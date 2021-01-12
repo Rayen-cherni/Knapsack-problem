@@ -16,3 +16,8 @@ We will not always be able to put all the objects in the bag because since the s
 So the user will look for the best solution to maximize the objects. 
 This game will be developed on Android and its use by users is almost immediate since the environment is simple and efficient.
 ## Realization
+# Picture I
+<img src="https://user-images.githubusercontent.com/57563454/104369415-b7250000-551d-11eb-9772-8f89fc6f5255.jpg" width="300" height="450">
+
+# Picture II
+<img src="https://user-images.githubusercontent.com/57563454/104369486-cc9a2a00-551d-11eb-8c3d-7bdcb83caeb9.jpg" widhth="300" height="450">
