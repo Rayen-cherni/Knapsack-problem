@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
-
+## About The Application
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The backpack algorithm is a problem combinatorial optimization. It models a situation analogous to filling a bag with
+back, which cannot support more than a certain weight, with all or part of a given set objects each having a weight and a value. Items put in the backpack must
+maximize the total value, without exceeding the maximum weight.
